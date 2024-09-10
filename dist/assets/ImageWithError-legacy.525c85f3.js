@@ -1,1 +1,0 @@
-System.register(["./index-legacy.c362e6b6.js"],(function(e){"use strict";var r,t,n,c,u;return{setters:[e=>{r=e.r,t=e.c,n=e.av,c=e.J,u=e.S}],execute:function(){e("I",(e=>{const[s,a]=r(!1);return t(u,{get when(){return!s()},get fallback(){return e.fallbackErr},get children(){return t(n,c(e,{onError:()=>{a(!0)}}))}})}))}}}));

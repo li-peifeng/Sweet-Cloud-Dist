@@ -1,1 +1,0 @@
-import{c as a,J as t,U as n,L as h,R as s,e as c,aN as f,c3 as o}from"./index.817ad0d2.js";const i=e=>a(s,t(e,{get href(){return n(e.encode?h(e.href):e.href)}})),m=e=>a(o,t(e,{get href(){return f(()=>!!e.cancelBase)()?e.href:n(e.href)}})),L=e=>{const{pushHref:r}=c();return a(i,t(e,{get href(){return r(e.href)}}))};export{m as A,i as L,L as a};
