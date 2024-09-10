@@ -1,1 +1,0 @@
-System.register(["./index-legacy.1ef69201.js"],(function(e){"use strict";var r,t,c;return{setters:[e=>{r=e.d,t=e.c,c=e.cc}],execute:function(){e("W",(e=>{const s=r();return t(c,{get colorScheme(){return e.yes?"success":"danger"},get children(){return s("global."+(e.yes?"yes":"no"))}})}))}}}));
