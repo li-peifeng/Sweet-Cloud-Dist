@@ -1,1 +1,0 @@
-import{dk as n,c as r,ab as a,aa as o}from"./index.a77dc6ce.js";const d=()=>{const[e]=n();return r(o,{get loading(){return e.loading},get children(){return r(a,{class:"word-wrap",get children(){var t;return(t=e())==null?void 0:t.content},toc:!0})}})};export{d as default};
