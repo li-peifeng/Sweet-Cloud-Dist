@@ -1,0 +1,1 @@
+System.register(["./index-legacy-e34080e6.js"],(function(e,t){"use strict";var r,n,c,u,i,a;return{setters:[e=>{r=e.dr,n=e.c,c=e.a3,u=e.cr,i=e.W,a=e.a2}],execute:function(){e("default",(()=>{const[e]=r();return n(a,{get loading(){return e.loading},get children(){return n(c,{get children(){return e()?.content},get ext(){return u(i.obj.name)},toc:!0})}})}))}}}));
