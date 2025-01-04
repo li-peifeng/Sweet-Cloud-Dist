@@ -1,0 +1,1 @@
+import{c as t,y as a,G as r,A as h,L as s,e as c,x as f,bZ as o}from"./index.fd01cb2f.js";const i=e=>t(s,a(e,{get href(){return r(e.encode?h(e.href):e.href)}})),m=e=>t(o,a(e,{get href(){return f(()=>!!e.cancelBase)()?e.href:r(e.href)}})),L=e=>{const{pushHref:n}=c();return t(i,a(e,{get href(){return n(e.href)}}))};export{m as A,i as L,L as a};
